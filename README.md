@@ -24,6 +24,6 @@
 
 <p  align="center">
 
-<img  src="pics/lb.png"  alt="lb"  height=312  width=820/>
+<img  src="pics/lb.png"  alt="lb"  height=312  width=810/>
 
 </p> 
