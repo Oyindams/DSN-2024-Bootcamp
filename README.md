@@ -20,10 +20,10 @@
 
 > Solving this challenge holds great significance. Early prediction aids in timely intervention and prevention, optimizing healthcare resources. The cost-effectiveness of predictive models reduces unnecessary procedures, benefiting patients and healthcare systems. Targeted public health efforts can stem from aggregated data, and research also advances through model insights. Ultimately, this challenge addresses a crucial healthcare issue using advanced machine learning, promising improved interventions and better health outcomes.
 
-## Public LeaderBoard
+## LeaderBoard
 
 <p  align="center">
 
-<img  src="pics/lb.png"  alt="lb"  height=312  width=810/>
+<img  src="pics/plb.png"  alt="lb"  height=312  width=810/>
 
 </p> 
